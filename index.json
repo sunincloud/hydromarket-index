@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-01T18:22:10Z",
+  "generated_at": "2026-10-02T22:00:20Z",
   "plugins": [
     {
       "id": "com.hydro.deskbuddy",
@@ -62,7 +62,7 @@
     {
       "id": "com.sunpm.wakeol",
       "name": "WakeOnLine",
-      "author": "@云里是个太阳",
+      "author": "云里是个太阳",
       "version": "0.4.0",
       "runtime": "js",
       "entry": "server.js",
@@ -76,8 +76,8 @@
       "category": "utility",
       "icon": "plugins/com.sunpm.wakeol/0.4.0/icon.png",
       "url": "plugins/com.sunpm.wakeol/0.4.0/com.sunpm.wakeol.hpk",
-      "sha256": "7421c5f670c4247e64ead5e329fd3530091ebb3e365a22fefa666483077e3fd5",
-      "size": 22206,
+      "sha256": "719b658c68d2202f3f6064b782643b28b0897fed6ce6a33c862550ac47d81ff9",
+      "size": 22201,
       "homepage": "https://float11.gitbook.io/hydrokit",
       "keywords": [
         "网络唤醒",
